@@ -1,5 +1,4 @@
-# PhpGuard-PHP-License-Management-Script
-<b>PhpGuard PHP License Management Script</b>
+# PhpGuard PHP License Management Script
 
 <img src="https://www.phpscriptsonline.com/frontend/assets/icon/phpguard-php-license-management-script.jpg">
 
