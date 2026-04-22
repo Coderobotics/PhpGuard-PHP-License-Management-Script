@@ -18,5 +18,5 @@ Without proper licensing, your hard work could be exploited commercially or redi
 <li>Secure Logout - Protected session management for administrator safety</li>
 </ul>
 
-<b>More details and download link:</b>
+<b>More details and download link:</b><br>
 https://www.phpscriptsonline.com/product/phpguard-php-license-management-script
